@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Reuters",
+            "title": "Snap sends shares tumbling with warning on economy and earnings - CNN",
+            "description": "Snap Inc said the economy had worsened faster than expected in the last month and the social media company slashed its quarterly forecast, triggering an after-hours sell-off.",
+            "url": "https://www.cnn.com/2022/05/24/investing/snap-earnings-warning-shares/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220524040836-snapchat-closeup-0310-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-05-24T09:11:00Z",
+            "content": "Snap Inc said the economy had worsened faster than expected in the last month and the social media company slashed its quarterly forecast, triggering an after-hours sell-off.\r\nSince late April, the m… [+1563 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Lauran Neergaard",
+            "title": "Pfizer says 3 COVID shots protect children under 5 - The Associated Press",
+            "description": "Three doses of Pfizer’s COVID-19 vaccine offer strong protection for children younger than 5, the company announced Monday, another step toward shots for the littlest kids  possibly beginning in early summer.",
+            "url": "https://apnews.com/article/pfizer-covid-vaccine-children-under-5-bb01e939338991f83a84f5c1a2aabafa",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/d49162d9621546dba2dc77858d28a2ac/3000.jpeg",
+            "publishedAt": "2022-05-24T05:39:43Z",
+            "content": "Three doses of Pfizers COVID-19 vaccine offer strong protection for children younger than 5, the company announced Monday, another step toward shots for the littlest kids possibly beginning in early … [+4605 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "World economy has 'buffer' against recession, says IMF's Gopinath - Reuters",
+            "description": "While the world economy faces headwinds, current growth forecasts offer a buffer against a potential global recession, the International Monetary Fund's No. 2 official said Monday.",
+            "url": "https://www.reuters.com/markets/europe/world-economy-has-buffer-against-recession-says-imfs-gopinath-2022-05-23/",
+            "urlToImage": "https://www.reuters.com/resizer/Z8KKAGcJO050gX-nblKym01sJi0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5RS7S5YPQZMWLH4MGMQMRRVKNI.jpg",
+            "publishedAt": "2022-05-24T03:05:00Z",
+            "content": "DAVOS, Switzerland, May 23 (Reuters) - While the world economy faces headwinds, current growth forecasts offer a buffer against a potential global recession, the International Monetary Fund's No. 2 o… [+2352 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lori Aratani, Dana Hedgpeth",
+            "title": "Passengers left on planes for hours at Reagan National after storms - The Washington Post",
+            "description": "The meltdown outside Washington is the industry’s latest as it copes with surging demand and a pandemic-era shortage of workers.",
+            "url": "https://www.washingtonpost.com/transportation/2022/05/23/dca-reagan-national-flight-delays/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QM7A7XWXZMI6ZPQXFBQWJF2MKQ.jpg&w=1440",
+            "publishedAt": "2022-05-24T02:15:00Z",
+            "content": "Placeholder while article actions load\r\nThais Austin wanted to get home to the District after a weekend visit with family in Jacksonville, Fla. Instead, she said, she and other passengers were stuck … [+6296 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Toyota to cut global production plan by 100000 in June - Reuters",
+            "description": "Toyota Motor Corp <a href=\"https://www.reuters.com/companies/7203.T\" target=\"_blank\">(7203.T)</a> will cut its global production plan by about 100,000 to roughly 850,000 vehicles in June due to the semiconductor shortage, it said on Tuesday.",
+            "url": "https://www.reuters.com/business/autos-transportation/toyota-cut-global-production-by-100000-june-2022-05-24/",
+            "urlToImage": "https://www.reuters.com/resizer/_HFQVb_jfCv1ELhC8SQaLTYeufY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TUEWOXRW25M63HA6W3B4K5R5Z4.jpg",
+            "publishedAt": "2022-05-24T02:07:00Z",
+            "content": "TOKYO, May 24 (Reuters) - Toyota Motor Corp (7203.T) will cut its global production plan by about 100,000 to roughly 850,000 vehicles in June due to the semiconductor shortage, it said on Tuesday.\r\nT… [+788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Madison Scarpino",
+            "title": "Saving money at the pump during the most expensive Memorial Day yet - Fox Business",
+            "description": "One of the busiest travel days of the year is a week away, during some of the highest gas prices the country has ever seen. This has Americans eager to save money in any way they can.",
+            "url": "https://www.foxbusiness.com/media/saving-money-gas-most-expensive-memorial-day",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/05/0/0/Screen-Shot-2022-05-23-at-4.29.59-PM.png?ve=1&tl=1",
+            "publishedAt": "2022-05-24T01:11:55Z",
+            "content": "Another week, another new record for the national average gas price that stands just under $4.60. This time a year ago, travelers were paying $3.03. In some areas, it’s even worse. Drivers in 22 stat… [+2900 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Google Maps workers in WA say they can’t afford the trip back to the office - The Seattle Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3MvZ29vZ2xlLW1hcHMtd29ya2Vycy1zYXktdGhleS1jYW50LWFmZm9yZC10aGUtdHJpcC1iYWNrLXRvLXRoZS1vZmZpY2Uv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-05-24T01:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Josephine Harvey",
+            "title": "Toddler Who Pulled Off Cheeseburger 'Heist' Gets Hero's Reception On Twitter - HuffPost",
+            "description": "\"It hurts to see other people living your dreams,\" one user wrote.",
+            "url": "https://www.huffpost.com/entry/toddler-cheeseburger-heist-reactions_n_628c154de4b05cfc269024cb",
+            "urlToImage": "https://img.huffingtonpost.com/asset/628c1c04210000cf90508b84.jpeg?ops=1778_1000",
+            "publishedAt": "2022-05-24T00:41:29Z",
+            "content": "Twitter users have found their hero of the week.\r\nA resourceful Texas 2-year-old has been hailed as a legend, icon and warrior after secretly ordering himself 31 cheeseburgers with a food delivery ap… [+546 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Ryan Mac",
+            "title": "SpaceX Executive Defends Elon Musk Against Misconduct Accusations - The New York Times",
+            "description": "Gwynne Shotwell, SpaceX’s president and chief operating officer, addressed sexual harassment allegations against Mr. Musk in a company email last week.",
+            "url": "https://www.nytimes.com/2022/05/23/technology/spacex-elon-musk.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/05/23/business/23economy-briefing-spacex/23economy-briefing-spacex-facebookJumbo.jpg",
+            "publishedAt": "2022-05-23T23:48:55Z",
+            "content": "A top executive at the rocket maker SpaceX said she personally believed that sexual harassment accusations against Elon Musk, the companys founder and chief executive, were false, according to a comp… [+1009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Jesse Hamilton",
+            "title": "Wall Street Says a Fed Digital Dollar Spells Destruction for Banks - CoinDesk",
+            "description": "The Federal Reserve is considering whether to launch a CBDC like other nations, and bankers argue that’s a dangerous idea.",
+            "url": "https://www.coindesk.com/policy/2022/05/23/wall-street-says-a-fed-digital-dollar-spells-destruction-for-banks/",
+            "urlToImage": "https://www.coindesk.com/resizer/uwis_TzG-aXpoLgHKpMarasC9Uo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6LPJC25KF5H33PPPRZIJ3GEDFA.jpg",
+            "publishedAt": "2022-05-23T23:20:00Z",
+            "content": "Wall Street bankers are arguing that the Federal Reserve launching its own digital dollar could crack the foundations of banking as we know it, according to letters that industry lobbyists sent to th… [+2127 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Wall Street rallies on back of big tech, banks - Reuters.com",
+            "description": "U.S. stocks ended higher on Monday as gains from banks and a rebound in market-leading tech shares supported a broad-based rally following Wall Street's longest streak of weekly declines since the dotcom bust more than 20 years ago.",
+            "url": "https://www.reuters.com/markets/us/futures-rebound-after-volatile-week-takeover-talks-boost-vmware-2022-05-23/",
+            "urlToImage": "https://www.reuters.com/resizer/B80RmRgMYLvnV_b7RsKBkf08SCI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XBRDGLOTD5MSZP6SD5YUND2MIY.jpg",
+            "publishedAt": "2022-05-23T23:14:00Z",
+            "content": "NEW YORK, May 23 (Reuters) - U.S. stocks ended higher on Monday as gains from banks and a rebound in market-leading tech shares supported a broad-based rally following Wall Street's longest streak of… [+3720 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Detroit News"
+            },
+            "author": "Breana Noble, Daniel Howes and Chad Livengood, The Detroit News",
+            "title": "Stellantis to announce second North American battery plant in Kokomo, Indiana - Detroit News",
+            "description": "The Jeep maker selected Kokomo, Indiana, for its second location to manufacture batteries -- meaning Michigan loses another claim to EV leadership.",
+            "url": "https://www.detroitnews.com/story/business/autos/chrysler/2022/05/23/stellantis-battery-plant-kokomo-indiana/9899280002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/01/19/PDTN/ff9b1763-7c17-4bfc-9321-4719dd1afdab-Stellantis-3.jpg?auto=webp&crop=1279,720,x0,y26&format=pjpg&width=1200",
+            "publishedAt": "2022-05-23T23:12:18Z",
+            "content": "Jeep maker Stellantis NV is expected to announce plans Tuesday to locate its second North American electric-vehicle battery manufacturing plant in Kokomo, Indiana, three sources familiar with the sit… [+5416 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WZZM13.com"
+            },
+            "author": "Keely Lovern",
+            "title": "'Panic, frustration' as local Meijer customers find incorrect charges on EBT, debit cards - WZZM13.com",
+            "description": "Patricia Wright said luckily, she had her checkbook on Saturday and used it to pay for the two people in front of her at Meijer while the machines were down.",
+            "url": "https://www.wzzm13.com/article/news/local/meijer-customers-incorrect-charges-ebt-debit-cards/69-1c01159e-a032-4bce-9500-4eddacc59271",
+            "urlToImage": "https://media.wzzm13.com/assets/WZZM/images/e07eeb88-7308-4b0c-afa5-477554ac34ce/e07eeb88-7308-4b0c-afa5-477554ac34ce_1140x641.jpg",
+            "publishedAt": "2022-05-23T23:11:00Z",
+            "content": "GRAND RAPIDS, Mich. Over the weekend, Meijer customers were in a panic as debit/credit, and EBT card readers were down for several hours. \r\n13 ON YOUR SIDE spoke to West Michiganders who experienced … [+3470 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "A recession is pretty likely, but probably not this year, says Alan Blinder - CNBC Television",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DARudOq8WEjg",
+            "urlToImage": null,
+            "publishedAt": "2022-05-23T22:45:50Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Editorial Board",
+            "title": "A Financier Tells Some Climate-Change Truths - The Wall Street Journal",
+            "description": "And for doing so, Stuart Kirk was suspended by HSBC.",
+            "url": "https://www.wsj.com/articles/a-financier-tells-some-climate-truths-stuart-kirk-hsbc-mark-carney-11653340776",
+            "urlToImage": "https://images.wsj.net/im-550076/social",
+            "publishedAt": "2022-05-23T22:37:00Z",
+            "content": "HSBC executive Stuart Kirk gave a presentation at an investor conference last week, taking banking regulators to task for overbaking the financial risk of climate change. What was he thinking? As pun… [+430 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Klarna used a prerecorded video message to lay off 10 percent of employees - The Verge",
+            "description": "“Buy now, pay later” service Klarna is laying off 10 percent of its workforce globally as the company’s valuation dips and it contends post-lowdown lows.",
+            "url": "https://www.theverge.com/2022/5/23/23138602/klarna-bnpl-service-lays-off-10-percent-workers-economy-falters-video-messages",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/P0WPQdKkeaL1-15L0lyadPJyYgE=/0x428:3761x2397/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23583611/1211180744.jpg",
+            "publishedAt": "2022-05-23T22:35:06Z",
+            "content": "The layoff affects 700 employees globally\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nKlarna lost about one-third of its valuation since last … [+2696 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Reuters",
+            "title": "Hyundai to invest an additional $5 billion in the US by 2025 - CNN",
+            "description": "Hyundai Motor Group said on Sunday it would invest an additional $5 billion in the United States by 2025 to strengthen collaboration with US firms in advanced technology.",
+            "url": "https://www.cnn.com/2022/05/23/business/hyundai-biden-us-investment/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220523142234-biden-hyundai-0523-super-tease.jpg",
+            "publishedAt": "2022-05-23T21:55:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WJXT News4JAX"
+            },
+            "author": "Joe McLean",
+            "title": "Q&A: VyStar spokesperson says credit union making ‘great progress’ - WJXT News4JAX ",
+            "description": "News4JAX sent the public relations agency working with VyStar a list of questions Monday after 10 days of a mobile and online banking outage.",
+            "url": "https://www.news4jax.com/news/local/2022/05/23/day-10-vystar-spokesperson-answers-our-questions-about-outage/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/05-23-2022/t_7bb4bb9ede39477fa0e7a8ec5b219fbf_name_image.jpg?_a=ATAK9d60",
+            "publishedAt": "2022-05-23T21:54:34Z",
+            "content": "JACKSONVILLE, Fla. News4JAX sent the public relations agency working with VyStar a list of questions Monday after 10 days of a mobile and online banking outage.\r\nAlso on Monday, News4JAX learned the … [+3819 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "GameStop Dunks Its Head Into the Crypto Kiddie Pool - Gizmodo",
+            "description": "The company that has become more known for meme stocks than its own financial prowess is trying to make a further bid for the risky finances crowd.",
+            "url": "https://gizmodo.com/gamestop-crypto-nft-wallet-blockchain-1848965386",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cd4c128b4182d7b2fba8152d7bb35733.jpg",
+            "publishedAt": "2022-05-23T21:35:00Z",
+            "content": "GameStop has officially thrown itself headlong into the web3 vipers nest with a new app release, though its hard to say whether its proposed population of gamers and game developers will take up the … [+3255 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Rob Lenihan",
+            "title": "Bitcoin Price May Crash to $8,000 - TheStreet",
+            "description": "Guggenheim Chief Investment Officer Scott Minerd thinks bitcoin could fall even lower.",
+            "url": "https://www.thestreet.com/investing/cryptocurrency/bitcoin-price-may-crash-to-8000",
+            "urlToImage": "https://www.thestreet.com/.image/t_share/MTg3MTM0MDE1NjQ2NDc1NDA1/bitcoin-1.jpg",
+            "publishedAt": "2022-05-23T21:25:12Z",
+            "content": "After last week's thrashing, cryptocurrency investors probably don't want to hear any more discouraging words.\r\nUnfortunately, one stock analyst believes that bitcoin could hit fall even lower than i… [+2487 chars]"
+        }
+    ]
+}
