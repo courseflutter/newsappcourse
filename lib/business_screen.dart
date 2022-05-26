@@ -14,7 +14,8 @@ class BusinessScreen extends StatelessWidget {
       builder: (context, state) {
         var cubit = NewsCubit().get(context);
         return ListView.separated(
-            itemBuilder: (context, index) => newsBuilder(cubit.business[index]),
+            itemBuilder: (context, index) =>
+                newsBuilder(cubit.business[index], context),
             separatorBuilder: (context, index) => SizedBox(
                   height: 5,
                 ),

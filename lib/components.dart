@@ -1,14 +1,22 @@
 import 'package:expandable/expandable.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_newsapi/webview_screen.dart';
 
-newsBuilder(model) {
+newsBuilder(model, context) {
   return Card(
     child: Column(
       children: [
-        Image.network(
-          model['urlToImage'].toString(),
-          errorBuilder: (context, error, stackTrace) => Image.network(
-              'https://th.bing.com/th/id/OIP.05w6-AGlEbstfVaDGnHp-QHaHa?pid=ImgDet&rs=1'),
+        InkWell(
+          onTap: () {
+            Navigator.of(context).push(MaterialPageRoute(
+              builder: (context) => WebScreen(model['url']),
+            ));
+          },
+          child: Image.network(
+            model['urlToImage'].toString(),
+            errorBuilder: (context, error, stackTrace) => Image.network(
+                'https://th.bing.com/th/id/OIP.05w6-AGlEbstfVaDGnHp-QHaHa?pid=ImgDet&rs=1'),
+          ),
         ),
         SizedBox(
           height: 10,
